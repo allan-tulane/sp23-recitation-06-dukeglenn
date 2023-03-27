@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "uto_grade",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_main.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
